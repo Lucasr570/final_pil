@@ -1,1 +1,2 @@
-# final_pil
+# TRABAJO INTEGRADOR FINAL. DJANGO - REACT.
+
